@@ -31,7 +31,7 @@ TW_INPUT_BLACKLIST := "hbtp_vm"
 
 # TWRP
 BOARD_USE_CUSTOM_RECOVERY_FONT := \"roboto_23x41.h\"
-TW_THEME := portrait_hdpi
+TW_THEME := landscape_hdpi
 RECOVERY_SDCARD_ON_DATA := true
 RECOVERY_GRAPHICS_USE_LINELENGTH := true
 TW_BRIGHTNESS_PATH := "/sys/class/leds/lcd-backlight/brightness"
