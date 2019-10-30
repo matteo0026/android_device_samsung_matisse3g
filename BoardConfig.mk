@@ -41,4 +41,6 @@ TW_MTP_DEVICE := "/dev/mtp_usb"
 TW_NO_REBOOT_BOOTLOADER := true
 TW_HAS_DOWNLOAD_MODE := true
 TARGET_USE_CUSTOM_LUN_FILE_PATH := "/sys/devices/platform/msm_hsusb/gadget/lun%d/file"
+TARGET_RECOVERY_QCOM_RTC_FIX := true
+
 
