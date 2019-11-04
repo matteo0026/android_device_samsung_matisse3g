@@ -1,0 +1,2 @@
+add_lunch_combo omni_matisse3g-eng
+add_lunch_combo omni_matisse3g-userdebug
