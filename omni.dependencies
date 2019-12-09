@@ -7,7 +7,7 @@
 	},
 	{
 		"remote":"github",
-    		"repository":"LightningFastRom/android_kernel_samsung_msm8226",
+    		"repository":"S3NEO/android_kernel_samsung_msm8226",
     		"target_path":"kernel/samsung/msm8226",
 		"revision":"lineage-16.0"
 	}
